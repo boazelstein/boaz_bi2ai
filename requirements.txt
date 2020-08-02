@@ -1,0 +1,16 @@
+catboost==0.23.2
+xgboost==1.1.1
+sklearn==0.0
+matplotlib==3.2.1
+opencv-python~=4.2.0.34
+numpy~=1.18.5
+tensorflow~=2.1.0
+pandas~=1.0.4
+scikit-learn~=0.23.1
+Keras~=2.3.1
+tqdm==4.46.1
+tesserocr==2.5.1
+pdf2image==1.13.1
+nltk==3.5
+spacy==2.2.4
+bs4==0.0.1
